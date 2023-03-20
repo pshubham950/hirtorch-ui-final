@@ -1,10 +1,9 @@
 import { Box, Button } from "@mui/material";
-import { margin } from "@mui/system";
+// import { margin } from "@mui/system";
 import React from "react";
 import { Link } from "react-router-dom";
 import "./FirstPage.css";
 import FirstPageWords from "./FirstPageWords";
-
 const FirstPage = () => {
   return (
     <Box>
